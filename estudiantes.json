@@ -1,0 +1,14 @@
+[
+  {
+    "id": "32325413",
+    "cedula": "32325413",
+    "nombre": "rayber naranjo",
+    "notas": [
+      11,
+      19,
+      15
+    ],
+    "promedio": 15,
+    "aprobado": true
+  }
+]
